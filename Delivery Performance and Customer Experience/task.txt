@@ -1,0 +1,15 @@
+Delivery Performance and Customer Experience
+Business Question:
+What’s the average delivery time, and how does it impact customer satisfaction and repeat orders?
+SQL Task:
+•	Use Orders table with OrderDate and ShipDate.
+•	Compute delivery time = DATEDIFF(ShipDate, OrderDate).
+•	Join with Customer Feedback or Repeat Orders (if available).
+•	Segment customers based on delivery performance.
+Power BI Visualization:
+•	Histogram of delivery times
+•	KPI: Avg Delivery Time
+•	Line chart: Delivery time vs Repeat Purchase Rate
+•	Slicer for shipping mode
+________________________________________
+
