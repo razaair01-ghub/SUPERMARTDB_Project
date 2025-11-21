@@ -27,7 +27,7 @@ These functions together created a solid foundation for time-series analysis.
 ---
 
 ## 📊 Power BI Visualizations
-![Sales & Profit Performance Dashboard](./Sales&Profit_Performance_Over_Time1.pbix)
+![Sales & Profit Performance Dashboard](./Sales_perfomance_over_time.png)
 
 ### ✔ **Line Chart — Monthly Sales & Profit Trends**  
 Shows how Sales and Profit move over months, highlighting seasonality and peaks.
